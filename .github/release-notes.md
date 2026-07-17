@@ -1,8 +1,8 @@
-### Downloads / 下载说明
+### 下载说明 / Downloads
 
-* **GregTech.Odyssey-${VERSION}.zip** → For most players / 适用于大多数玩家（中文 / 默认）
-* **GregTech.Odyssey-${VERSION}-all-locales.zip** → For international players / 适用于国际玩家
-* **GregTech-Odyssey-server.zip** → Server package (auto-download mods) / 服务器包（自动下载 mods）
+* **GregTech.Odyssey-${VERSION}.zip** → 适用于大多数玩家（中文 / 默认） / For most players
+* **GregTech.Odyssey-${VERSION}-all-locales.zip** → 适用于国际玩家 / For international players
+* **GregTech-Odyssey-server.zip** → 服务器包（自动下载 mods） / Server package (auto-download mods)
 
 ### 声明 / Notice
 
